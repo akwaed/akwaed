@@ -5,8 +5,6 @@ I'm Elnoel Akwa =)
 - 📫 How to reach me: <a href="mailto:akwaed@gmail.com">📧 akwaed@gmail.com</a>
 - 📄 Current copy of my resume -> [Resume July 2023](src/Akwa_Elnoel_Resume_June_2023.pdf)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akwaed)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=akwaed&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akwaed&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
