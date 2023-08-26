@@ -1,10 +1,11 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning at the University of Kentucky <a href="https:uky.edu"><img title="uk" src="https://clipart-library.com/img/1645731.png" width="32"></a>
+- 🔭 I'm looking for a full-time position 
 <!--
 **akwaed/akwaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://assets.stickpng.com/images/622f3e33ae7f8f3715381b2c.png
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
